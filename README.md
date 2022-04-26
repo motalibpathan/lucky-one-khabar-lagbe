@@ -2,6 +2,14 @@
 
 ## Live site link: [https://khabar-lagbe-motalibpathan.netlify.app/ ](https://khabar-lagbe-motalibpathan.netlify.app/)
 
+## Assignment-10
+
+## Technology Used
+
+- React
+- React-Bootstrap
+- Font awesome
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
